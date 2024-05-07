@@ -1,0 +1,1 @@
+nextflow run alexyfyf/atac_nf --reads 'fastq/*R{1,2}.fastq.gz' -resume --fasta /home/fyan0011/ls25/feng.yan_raw/refFiles/ucsc_mm10/mm10.fa -profile slurm --outdir result_atac
