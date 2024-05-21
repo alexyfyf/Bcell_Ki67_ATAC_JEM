@@ -1,0 +1,25 @@
+SampleID,Factor,Replicate,PeakCaller,Condition,Tissue,bamReads,Peaks
+1A,ATAC,1,narrow,WT,Pre-pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/1A_S1_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/1A_S1_narrow_peaks.narrowPeak
+2A,ATAC,2,narrow,WT,Pre-pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/2A_S2_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/2A_S2_narrow_peaks.narrowPeak
+3A,ATAC,3,narrow,WT,Pre-pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/3A_S3_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/3A_S3_narrow_peaks.narrowPeak
+4A,ATAC,4,narrow,WT,Pre-pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/4A_S4_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/4A_S4_narrow_peaks.narrowPeak
+7A,ATAC,1,narrow,Ki67KO,Pre-pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/7A_S5_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/7A_S5_narrow_peaks.narrowPeak
+8A,ATAC,2,narrow,Ki67KO,Pre-pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/8A_S6_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/8A_S6_narrow_peaks.narrowPeak
+9A,ATAC,3,narrow,Ki67KO,Pre-pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/9A_S7_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/9A_S7_narrow_peaks.narrowPeak
+10A,ATAC,4,narrow,Ki67KO,Pre-pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/10A_S8_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/10A_S8_narrow_peaks.narrowPeak
+1B,ATAC,1,narrow,WT,Pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/1B_S9_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/1B_S9_narrow_peaks.narrowPeak
+2B,ATAC,2,narrow,WT,Pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/2B_S10_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/2B_S10_narrow_peaks.narrowPeak
+3B,ATAC,3,narrow,WT,Pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/3B_S11_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/3B_S11_narrow_peaks.narrowPeak
+5B,ATAC,4,narrow,WT,Pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/5B_S12_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/5B_S12_narrow_peaks.narrowPeak
+7B,ATAC,1,narrow,Ki67KO,Pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/7B_S13_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/7B_S13_narrow_peaks.narrowPeak
+8B,ATAC,2,narrow,Ki67KO,Pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/8B_S14_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/8B_S14_narrow_peaks.narrowPeak
+9B,ATAC,3,narrow,Ki67KO,Pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/9B_S15_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/9B_S15_narrow_peaks.narrowPeak
+10B,ATAC,4,narrow,Ki67KO,Pro-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/10B_S16_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/10B_S16_narrow_peaks.narrowPeak
+1C,ATAC,1,narrow,WT,small pre-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/1C_S17_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/1C_S17_narrow_peaks.narrowPeak
+3C,ATAC,2,narrow,WT,small pre-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/3C_S18_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/3C_S18_narrow_peaks.narrowPeak
+4C,ATAC,3,narrow,WT,small pre-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/4C_S19_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/4C_S19_narrow_peaks.narrowPeak
+5C,ATAC,4,narrow,WT,small pre-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/5C_S20_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/5C_S20_narrow_peaks.narrowPeak
+7C,ATAC,1,narrow,Ki67KO,small pre-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/7C_S21_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/7C_S21_narrow_peaks.narrowPeak
+9C,ATAC,2,narrow,Ki67KO,small pre-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/9C_S22_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/9C_S22_narrow_peaks.narrowPeak
+10C,ATAC,3,narrow,Ki67KO,small pre-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/10C_S23_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/10C_S23_narrow_peaks.narrowPeak
+11C,ATAC,4,narrow,Ki67KO,small pre-B,/fs03/mx82/2022-10-21_ATACseq/result_atac/ShiftedBamFiles/11C_S24_shifted_sorted.bam,/fs03/mx82/2022-10-21_ATACseq/result_atac/macs2/11C_S24_narrow_peaks.narrowPeak
