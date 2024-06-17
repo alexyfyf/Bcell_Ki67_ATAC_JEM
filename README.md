@@ -39,8 +39,12 @@ ATACseq analysis for the JEM paper
 ### 4, Generate tracks with trackhub
 1. Put folder `bw` (containing bigwig files) and [generatetrack_bycelltype.py](trackhubs/generatetrack_bycelltype.py) under the same parent directory.
 2. Generate trackhub for USCS using [trackhub](https://daler.github.io/trackhub/) python package. Run `python generatetrack_bycelltype.py`
+3. Tracks can be viewed at [UCSC track hub](https://genome.ucsc.edu/s/alexyfyf/Ki67_BCell).
 
 ### Citation
 
 **Ki67 deficiency impedes chromatin accessibility and BCR gene rearrangement** Zhoujie Ding, Maree Hagan, Feng Yan, Nick Schroer, Jack Polmear, Kim Good-Jacobson, Alexandra Dvorscek, Catherine Pitt, Kristy O'Donnell, Stephen Nutt, Dimitra Zotos, Craig McKenzie, Danika Hill, Marcus Robinson, Isaak Quast, Frank Koentgen, and David Tarlinton. *Journal of Experimental Medicine*. DOI: [10.1084/jem.20232160](https://doi.org/10.1084/jem.20232160).
+
+
+
 
